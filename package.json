@@ -1,0 +1,22 @@
+{
+  "name": "Unity-FruitFallingGame",
+  "version": "0.0.0",
+  "description": "一个使用unity制作的捡水果项目",
+  "scripts": {
+    "release": "standard-version",
+    "release:dry": "standard-version --dry-run",
+    "release:major": "standard-version --release-as major",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major-preview": "standard-version --release-as major --dry-run",
+    "release:minor-preview": "standard-version --release-as minor --dry-run",
+    "release:patch-preview": "standard-version --release-as patch --dry-run"
+  },
+  "keywords": [
+    "Unity-FruitFallingGame",
+    "Unity",
+    "FruitFallingGame"
+  ],
+  "author": "XuanEXE-system666 <email@example.com>",
+  "license": "MIT"
+}
