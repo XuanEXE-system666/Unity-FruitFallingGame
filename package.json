@@ -1,6 +1,6 @@
 {
   "name": "Unity-FruitFallingGame",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "一个使用unity制作的捡水果项目",
   "scripts": {
     "release": "standard-version",
