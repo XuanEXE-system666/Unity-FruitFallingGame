@@ -45,8 +45,8 @@ MonoBehaviour:
     - line: '|   defaultCursor: {fileID: 2800000, guid: 927a999be03e26448ae684a7ddd51be4,
         type: 3}'
     - line: '|   cursorHotspot: {x: 0, y: 0}'
-    - line: '|   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b:
-        0.1254902, a: 1}'
+    - line: '|   m_SplashScreenBackgroundColor: {r: 0.055373278, g: 0, b: 0.084905684,
+        a: 1}'
     - line: '|   m_ShowUnitySplashScreen: 1'
     - line: '|   m_ShowUnitySplashLogo: 1'
     - line: '|   m_SplashScreenOverlayOpacity: 1'
@@ -72,8 +72,8 @@ MonoBehaviour:
     - line: '|   m_SplashScreenLogos: []'
     - line: '|   m_VirtualRealitySplashScreen: {instanceID: 0}'
     - line: '|   m_HolographicTrackingLossScreen: {instanceID: 0}'
-    - line: '|   defaultScreenWidth: 640'
-    - line: '|   defaultScreenHeight: 360'
+    - line: '|   defaultScreenWidth: 1280'
+    - line: '|   defaultScreenHeight: 720'
     - line: '|   defaultScreenWidthWeb: 1280'
     - line: '|   defaultScreenHeightWeb: 720'
     - line: '|   m_StereoRenderingPath: 0'
@@ -124,7 +124,7 @@ MonoBehaviour:
     - line: '|   bakeCollisionMeshes: 0'
     - line: '|   forceSingleInstance: 0'
     - line: '|   useFlipModelSwapchain: 1'
-    - line: '|   resizableWindow: 0'
+    - line: '|   resizableWindow: 1'
     - line: '|   useMacAppStoreValidation: 0'
     - line: '|   macAppStoreCategory: public.app-category.games'
     - line: '|   gpuSkinning: 1'
